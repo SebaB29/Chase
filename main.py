@@ -1,5 +1,5 @@
-from inter_grafica import *
-from chase import *
+from graphics.inter_grafica import *
+from src.chase import *
 
 TIMER = 20
 def main():
