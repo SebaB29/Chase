@@ -18,5 +18,5 @@ GRAPHICS:
 # Gráficos
 La interfaz gráfica se creo utilizando la librería extraída [Gamelib](https://github.com/dessaya/python-gamelib)
 
-![Chase](https://github.com/SebaB29/Chase/blob/main/img/chase.png)
-![Game Over](https://github.com/SebaB29/Chase/blob/main/img/gameOver.png)
+![Chase](https://github.com/SebaB29/Chase/blob/main/img/chase.jpg)
+![Game Over](https://github.com/SebaB29/Chase/blob/main/img/gameOver.jpg)
