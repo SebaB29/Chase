@@ -51,7 +51,7 @@ Chase/
 ## ⚙️ Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/SebaB29/chase.git](https://github.com/SebaB29/chase.git)
+   git clone git@github.com:SebaB29/Chase.git
    cd chase
    ```
 
